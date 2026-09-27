@@ -2,15 +2,6 @@
 
 > How does a private equity firm managing US$4.3B+ market itself with **zero social media presence**? A first-hand interview with a Partner at Quadria Capital, analyzed through PESTLE, SWOT, and the 7Ps of marketing.
 
-**Institution:** Xavier Institute of Social Service (XISS), Ranchi — PGDM (Finance)
-**Course:** Marketing of Financial Services
-**Author:** Ritik Raj Singh (Roll No. 62)
-**Faculty:** Professor Prashant Kumar Jha
-**Interviewee:** Sunil Thakur, Partner, Quadria Capital
-**Date:** March 2026
-
----
-
 ## Why this project
 
 Most "marketing of financial services" coursework defaults to retail products — mutual funds, insurance, SIPs — because that's where marketing looks familiar: ads, apps, campaigns. This project instead looks at the **institutional / B2B side** of financial services, where a firm can manage billions of dollars in assets while running no digital marketing at all.
